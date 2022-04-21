@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexcjwei
 - 👀 I’m interested in software engineering and computer systems. I'm interested in climate, education, and blockchain tech applications.
-- 🌱 I’m currently learning about Artificial Intelligence, Algorithms, and Object-Oriented Software Engineering.
+- 🌱 I’m currently learning about sustainability, climate change, and climate tech solutions. I'm taking Artificial Intelligence, Intro Algorithms, and Object-Oriented Software Engineering.
 
 <!---
 alexcjwei/alexcjwei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
