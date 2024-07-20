@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @alexcjwei.
-- 👀 I’m interested in the intersection of climate and software.
-- 🌱 I like learning about climate change and climate tech solutions. I'm currently taking Deep Learning, Computer Vision, and AI System Design.
+Hello there 👋
+
+**A full-stack software engineer and recent Master's graduate of Johns Hopkins University**
+
+- ⬅️ Previously: Sightline Climate, Meta, JHU Applied Physics Laboratory, Trayt.io
+- 💡 Passionate about AI / ML and climate change.
 
 <!---
 alexcjwei/alexcjwei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
